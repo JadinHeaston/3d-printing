@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"mtsmfm.vscode-stl-viewer",
+		"ms-vscode.cpptools",
+		"streetsidesoftware.code-spell-checker",
+		"mkxml.vscode-filesize",
+		"marlinfirmware.auto-build",
+		"platformio.platformio-ide",
+		"ml.nc-gcode",
+		"davidanson.vscode-markdownlint",
+		"yzhang.markdown-all-in-one"
+	]
+}
